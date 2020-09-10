@@ -1,0 +1,15 @@
+C:\Users\Joe\source\repos\duelGenerationsSaveEditor\duelGenerationsSaveEditor\bin\Debug\duelGenerationsSaveEditor.exe.config
+C:\Users\Joe\source\repos\duelGenerationsSaveEditor\duelGenerationsSaveEditor\bin\Debug\duelGenerationsSaveEditor.exe
+C:\Users\Joe\source\repos\duelGenerationsSaveEditor\duelGenerationsSaveEditor\bin\Debug\duelGenerationsSaveEditor.pdb
+C:\Users\Joe\source\repos\duelGenerationsSaveEditor\duelGenerationsSaveEditor\obj\Debug\duelGenerationsSaveEditor.csprojAssemblyReference.cache
+C:\Users\Joe\source\repos\duelGenerationsSaveEditor\duelGenerationsSaveEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Joe\source\repos\duelGenerationsSaveEditor\duelGenerationsSaveEditor\obj\Debug\App.g.cs
+C:\Users\Joe\source\repos\duelGenerationsSaveEditor\duelGenerationsSaveEditor\obj\Debug\duelGenerationsSaveEditor_MarkupCompile.cache
+C:\Users\Joe\source\repos\duelGenerationsSaveEditor\duelGenerationsSaveEditor\obj\Debug\duelGenerationsSaveEditor_MarkupCompile.lref
+C:\Users\Joe\source\repos\duelGenerationsSaveEditor\duelGenerationsSaveEditor\obj\Debug\MainWindow.baml
+C:\Users\Joe\source\repos\duelGenerationsSaveEditor\duelGenerationsSaveEditor\obj\Debug\duelGenerationsSaveEditor.g.resources
+C:\Users\Joe\source\repos\duelGenerationsSaveEditor\duelGenerationsSaveEditor\obj\Debug\duelGenerationsSaveEditor.Properties.Resources.resources
+C:\Users\Joe\source\repos\duelGenerationsSaveEditor\duelGenerationsSaveEditor\obj\Debug\duelGenerationsSaveEditor.csproj.GenerateResource.cache
+C:\Users\Joe\source\repos\duelGenerationsSaveEditor\duelGenerationsSaveEditor\obj\Debug\duelGenerationsSaveEditor.csproj.CoreCompileInputs.cache
+C:\Users\Joe\source\repos\duelGenerationsSaveEditor\duelGenerationsSaveEditor\obj\Debug\duelGenerationsSaveEditor.exe
+C:\Users\Joe\source\repos\duelGenerationsSaveEditor\duelGenerationsSaveEditor\obj\Debug\duelGenerationsSaveEditor.pdb
